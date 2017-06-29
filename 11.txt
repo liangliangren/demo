@@ -14,5 +14,5 @@ $ git config --global user.email"373289962@qq.com"
 第四步：git commit -m "第一次提交"
 
 
-第五步：git diff
+第五步：git diff   查看工作区中修改的内容
 
